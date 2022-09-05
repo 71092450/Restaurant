@@ -229,12 +229,14 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 100;
     font-size: 1.8em;
     margin: 30px;
+   
 }
 
 
 .today-special .column {
       margin-bottom: 30px;
       text-align: center;
+      cursor: pointer;
 }
 .today-special__img {
     display: block;
